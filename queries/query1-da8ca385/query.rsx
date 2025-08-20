@@ -1,0 +1,17 @@
+<PlaygroundQuery
+  id="query1"
+  adhocResourceType={null}
+  data={null}
+  resourceType="smtp"
+>
+  <SMTPQuery
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    attachment={[]}
+    importedQueryDefaults={{}}
+    importedQueryInputs={{}}
+    privateParams={[]}
+    retoolVersion="3.110.0"
+    watchedParams={[]}
+  />
+</PlaygroundQuery>

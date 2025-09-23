@@ -28,7 +28,7 @@
     "oauth2_client_id": "",
     "forwardAllCookies": false,
     "auth0_clientSecret": "",
-    "disableUrlEncoding": true,
+    "disableUrlEncoding": false,
     "extraBodyKeyValues": [["", ""]],
     "verify_session_url": "",
     "oauth1_consumer_key": "",

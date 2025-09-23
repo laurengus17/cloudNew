@@ -11,7 +11,7 @@
   "editPrivilege": null,
   "options": {
     "baseURL": "https://httpbin.org",
-    "headers": [["testing", "{{ environment.variables.testingVar }}"]],
+    "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
     "bearer_token": "",
